@@ -1,5 +1,7 @@
 # Desiging RESTful APIs
 
+<img src="banner.png" />
+
 # Contents
 
 1. [What is REST?](chapters/01_what_is_rest/index.md)
