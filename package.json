@@ -1,0 +1,25 @@
+{
+  "name": "restbook",
+  "version": "1.0.0",
+  "description": "<img src=\"banner.png\" />",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsx ./src/index.ts",
+    "watch": "stsx watch ./src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidwhitney/RESTbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidwhitney/RESTbook/issues"
+  },
+  "homepage": "https://github.com/davidwhitney/RESTbook#readme",
+  "devDependencies": {
+    "tsx": "^3.12.7",
+    "typescript": "^5.0.4"
+  }
+}
