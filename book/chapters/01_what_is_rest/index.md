@@ -94,7 +94,7 @@ In practice, in most RESTful HTTP APIs these data elements are satisified in the
 | Data Element	            | Modern Web Examples 
 ----------------------------|----------------------
 | resource                  | A Domain entity in a system (e.g., a User, a Product, a Purchase) and operations it can perform (e.g., a Purchase can be cancelled)
-| resource identifier       | Almost always URL
+| resource identifier       | Almost always a URL
 | representation            | Usually a JSON response document representing the resource data
 | representation metadata   | Content-Type HTTP headers along with last-modified times or ETags
 | resource metadata         | Frequently omitted in most HTTP APIs
