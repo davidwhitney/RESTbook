@@ -9,8 +9,13 @@
     - Good and bad names
     - Dangerous names and overloaded terms
         - type
+
+
 - Referencing other resources
     - Standard Id format
     - Including naked id and absolute URL
+    - **EXPANDED ON IN DESIGNING FOR CONSUMERS**
+
+
 - Planning for change - extensibility
 - Common mistakes in resource design
